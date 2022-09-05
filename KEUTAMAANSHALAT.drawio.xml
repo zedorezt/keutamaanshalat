@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T01:01:44.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7ssbCCzFzkJ_Ea09-9ow" version="20.2.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-09-05T09:47:33.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rGQROH1lEb7dZXBsd311" version="20.2.8" type="github" pages="18">
   <diagram id="ptX_z7NHkDAhG5BGAcua" name="MAIN">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="810" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="240" y="410" width="110" height="220" as="geometry" />
         </mxCell>
         <mxCell id="vQxqKKseCGCAXoM-ueNt-39" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Ketika....&lt;/i&gt;&lt;br&gt;Melangkah ke Masjid&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="630" width="110" height="280" as="geometry" />
+          <mxGeometry x="240" y="630" width="110" height="260" as="geometry" />
         </mxCell>
         <mxCell id="vQxqKKseCGCAXoM-ueNt-40" value="&lt;i style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ketika....&lt;/i&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Menunggu Shalat&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="910" width="110" height="80" as="geometry" />
+          <mxGeometry x="240.98" y="890" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y3rqe7xAY7ScYUD7S8NS-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Dijawab&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="369.02" y="240" width="230" height="70" as="geometry" />
@@ -106,57 +106,52 @@
           </mxCell>
         </object>
         <mxCell id="Y1K2-1pJygIcHRLU0Th9-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Melangkah&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="369.52" y="630" width="230" height="170" as="geometry" />
+          <mxGeometry x="369.52" y="630" width="230" height="150" as="geometry" />
         </mxCell>
-        <object label="Dicatat kebaikan" id="Y1K2-1pJygIcHRLU0Th9-9">
+        <object label="Dicatat kebaikan" link="data:page/id,hie3DcwTOtRVuG1gYtHq" id="Y1K2-1pJygIcHRLU0Th9-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
             <mxGeometry x="388.05" y="650" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="Pahala" id="Y1K2-1pJygIcHRLU0Th9-10">
+        <object label="Hapus dosa" link="data:page/id,3Z4W4OBbmzfN2qAZV7aq" id="Y1K2-1pJygIcHRLU0Th9-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="670" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.54" y="670" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="Hapus dosa" id="Y1K2-1pJygIcHRLU0Th9-11">
+        <object label="Dinaikkan derajat" link="data:page/id,3Z4W4OBbmzfN2qAZV7aq" id="Y1K2-1pJygIcHRLU0Th9-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="690" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.54" y="690" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="Dinaikkan derajat" id="Y1K2-1pJygIcHRLU0Th9-12">
+        <object label="Jaminan surga" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="710" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.54" y="710" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="Jaminan surga" id="Y1K2-1pJygIcHRLU0Th9-13">
+        <object label="Jaminan pahala" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="730" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.54" y="730" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="Jaminan pahala" id="Y1K2-1pJygIcHRLU0Th9-14">
+        <object label="Jaminan beruntung ketika kembali ke rumah" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="750" width="192.93" height="20" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Jaminan beruntung ketika kembali ke rumah" id="Y1K2-1pJygIcHRLU0Th9-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="770" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.54" y="750" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GQeM6poqV3y5lA7JYuwL-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Sambil baca shalawat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="800" width="230" height="50" as="geometry" />
+          <mxGeometry x="370" y="780" width="230" height="50" as="geometry" />
         </mxCell>
-        <object label="Dapat cahaya hari kiamat" id="GQeM6poqV3y5lA7JYuwL-2">
+        <object label="Cahaya hari kiamat" link="data:page/id,a9rflhCts0f253wryjZ0" id="GQeM6poqV3y5lA7JYuwL-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="386.57" y="820" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="386.57" y="800" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="NaWe3xuq2ul6Oi4aCPQo-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Pada pagi dan sore&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="369.52000000000004" y="850" width="230" height="50" as="geometry" />
+          <mxGeometry x="370.00000000000006" y="830" width="230" height="50" as="geometry" />
         </mxCell>
-        <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jamuan dari surga (an-nuzul)&lt;/span&gt;" id="NaWe3xuq2ul6Oi4aCPQo-2">
+        <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jamuan dari surga (an-nuzul)&lt;/span&gt;" link="data:page/id,XAq6I-yiekHe78fZB9eb" id="NaWe3xuq2ul6Oi4aCPQo-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="870" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.53000000000003" y="850" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="iZ-1tIumDRHz5UjwuG_M-2" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;KEUTAMAANSHALAT.COM&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Berisi t&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entang Keutamaan-Keutamaan yang Didapat Seorang Muslim&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;dalam Perjalanannya Menuju Shalat Berjama&#39;ah di Masjid&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;Motto : Mudah diakses - Ringkas - In syaa Allah Menambah Iman&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.banner;dx=26.86;dy=6.79;notch=15.81;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=9;fontStyle=1;spacingBottom=15;rounded=0;" parent="1" vertex="1">
@@ -177,37 +172,37 @@
           <mxGeometry x="-20" y="7.832" width="370" height="24.336000000000002" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;i&gt;Ketika...&lt;/i&gt;&lt;br&gt;Shaf Pertama&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="990" width="110" height="60" as="geometry" />
+          <mxGeometry x="240.98" y="970" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Shaf Kedua&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1049.5" width="110" height="50.5" as="geometry" />
+          <mxGeometry x="240.98" y="1029.5" width="110" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Menyambung Shaf&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="239.02" y="1100" width="110" height="80" as="geometry" />
+          <mxGeometry x="240" y="1080" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Menunggu Shalat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.03" y="910" width="231.97" height="70" as="geometry" />
+          <mxGeometry x="369.01" y="890" width="231.97" height="70" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Pertama&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.53" y="990" width="230" height="50" as="geometry" />
+          <mxGeometry x="369.51" y="970" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Kedua&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.03" y="1050" width="230" height="40" as="geometry" />
+          <mxGeometry x="369.01" y="1030" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Wudhu dari rumah lalu berangkat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1100" width="230" height="70" as="geometry" />
+          <mxGeometry x="370.98" y="1080" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Merapatkan Shaf&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1180" width="110" height="70" as="geometry" />
+          <mxGeometry x="240.98" y="1169" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Sambil baca sholawat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.03" y="1180" width="230" height="60" as="geometry" />
+          <mxGeometry x="369.01" y="1169" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-16" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Ketika Shalat&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1250" width="110" height="80" as="geometry" />
+          <mxGeometry x="240.98" y="1239" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Pada pagi dan sore&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.03" y="1250" width="231.97" height="70" as="geometry" />
+          <mxGeometry x="369.01" y="1239" width="231.97" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -308,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A5" id="l_1xcgvJV4YU1Oe_WtqG">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HODPyGqQKXon22OkTIbk-0" />
         <mxCell id="HODPyGqQKXon22OkTIbk-1" parent="HODPyGqQKXon22OkTIbk-0" />
@@ -330,18 +325,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="W1" id="EJFEY792FsG4w_R0A-iM">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="D2OJhwudM8Wkzxu0i4oo-0" />
         <mxCell id="D2OJhwudM8Wkzxu0i4oo-1" parent="D2OJhwudM8Wkzxu0i4oo-0" />
-        <mxCell id="D2OJhwudM8Wkzxu0i4oo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="D2OJhwudM8Wkzxu0i4oo-1">
+        <mxCell id="D2OJhwudM8Wkzxu0i4oo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="D2OJhwudM8Wkzxu0i4oo-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="D2OJhwudM8Wkzxu0i4oo-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Bahkan yang lebih hebat lagi adalah sabda Rasulullah shallallahu ‘alaihi wa sallam,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;إِذَا تَطَهَّرَ الرَّجُلُ، ثُمَّ أَتَى الْمَسْجِدَ يَرْعَى الصَّلَاةَ، كَتَبَ لَهُ كَاتِبَاهُ أَوْ كَاتِبُهُ، بِكُلِّ خُطْوَةٍ يَخْطُوهَا إِلَى الْمَسْجِدِ عَشْرَ حَسَنَاتٍ، وَالْقَاعِدُ يَرْعَى الصَّلَاةَ كَالْقَانِتِ، وَيُكْتَبُ مِنَ الْمُصَلِّينَ مِنْ حِينِ يَخْرُجُ مِنْ بَيْتِهِ حَتَّى يَرْجِعَ إِلَيْهِ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Jika seseorang bersuci kemudian pergi ke masjid untuk memelihara shalatnya, maka dicatat baginya sebanyak sepuluh kebaikan untuk setiap langkahnya ke masjid. Dan orang yang duduk (menunggu shalat) untuk memelihara shalatnya, dia seperti orang yang melaksanakan ketaatan dan dicatat sebagai orang yang mengerjakan shalat ketika keluar dari rumahnya sampai kembali lagi.“ (HR. Ahmad dan Ibnu Hibban. Di-shahih-kan oleh Syaikh Albani).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="D2OJhwudM8Wkzxu0i4oo-1">
+        <mxCell id="D2OJhwudM8Wkzxu0i4oo-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;Bahkan yang lebih hebat lagi adalah sabda Rasulullah shallallahu ‘alaihi wa sallam,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;إِذَا تَطَهَّرَ الرَّجُلُ، ثُمَّ أَتَى الْمَسْجِدَ يَرْعَى الصَّلَاةَ، كَتَبَ لَهُ كَاتِبَاهُ أَوْ كَاتِبُهُ، بِكُلِّ خُطْوَةٍ يَخْطُوهَا إِلَى الْمَسْجِدِ عَشْرَ حَسَنَاتٍ، وَالْقَاعِدُ يَرْعَى الصَّلَاةَ كَالْقَانِتِ، وَيُكْتَبُ مِنَ الْمُصَلِّينَ مِنْ حِينِ يَخْرُجُ مِنْ بَيْتِهِ حَتَّى يَرْجِعَ إِلَيْهِ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;”Jika seseorang bersuci kemudian pergi ke masjid untuk memelihara shalatnya, maka dicatat baginya sebanyak sepuluh kebaikan untuk setiap langkahnya ke masjid. Dan orang yang duduk (menunggu shalat) untuk memelihara shalatnya, dia seperti orang yang melaksanakan ketaatan dan dicatat sebagai orang yang mengerjakan shalat ketika keluar dari rumahnya sampai kembali lagi.“ (HR. Ahmad dan Ibnu Hibban. Di-shahih-kan oleh Syaikh Albani).&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="D2OJhwudM8Wkzxu0i4oo-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="210" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="D2OJhwudM8Wkzxu0i4oo-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="D2OJhwudM8Wkzxu0i4oo-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="D2OJhwudM8Wkzxu0i4oo-1" vertex="1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -349,18 +344,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="W2" id="stOHWTPRBskVVV7b9wHP">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8ozS3X6gQxjh0AEmfI5e-0" />
         <mxCell id="8ozS3X6gQxjh0AEmfI5e-1" parent="8ozS3X6gQxjh0AEmfI5e-0" />
-        <mxCell id="8ozS3X6gQxjh0AEmfI5e-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="8ozS3X6gQxjh0AEmfI5e-1">
+        <mxCell id="8ozS3X6gQxjh0AEmfI5e-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="8ozS3X6gQxjh0AEmfI5e-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="8ozS3X6gQxjh0AEmfI5e-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;مَنْ خَرَجَ مِنْ بَيْتِهِ مُتَطَهِّرًا إِلَى صَلَاةٍ مَكْتُوبَةٍ فَأَجْرُهُ كَأَجْرِ الْحَاجِّ الْمُحْرِمِ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Barangsiapa yang keluar dari rumahnya dalam keadaan berwudhu untuk menunaikan shalat wajib, maka pahalanya seperti pahala orang yang berihram untuk melaksanakan haji.” (HR. Abu Dawud, di-hasan-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="8ozS3X6gQxjh0AEmfI5e-1">
+        <mxCell id="8ozS3X6gQxjh0AEmfI5e-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;مَنْ خَرَجَ مِنْ بَيْتِهِ مُتَطَهِّرًا إِلَى صَلَاةٍ مَكْتُوبَةٍ فَأَجْرُهُ كَأَجْرِ الْحَاجِّ الْمُحْرِمِ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Barangsiapa yang keluar dari rumahnya dalam keadaan berwudhu untuk menunaikan shalat wajib, maka pahalanya seperti pahala orang yang berihram untuk melaksanakan haji.” (HR. Abu Dawud, di-hasan-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="8ozS3X6gQxjh0AEmfI5e-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="210" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="8ozS3X6gQxjh0AEmfI5e-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="8ozS3X6gQxjh0AEmfI5e-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="8ozS3X6gQxjh0AEmfI5e-1" vertex="1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -368,18 +363,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="W3" id="bIxmsCIB0Qiyf1aOTn-P">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PeBpS4v6Axr1vAxxJEVa-0" />
         <mxCell id="PeBpS4v6Axr1vAxxJEVa-1" parent="PeBpS4v6Axr1vAxxJEVa-0" />
-        <mxCell id="PeBpS4v6Axr1vAxxJEVa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PeBpS4v6Axr1vAxxJEVa-1">
+        <mxCell id="PeBpS4v6Axr1vAxxJEVa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="PeBpS4v6Axr1vAxxJEVa-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PeBpS4v6Axr1vAxxJEVa-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;إِذَا تَوَضَّأَ أَحَدُكُمْ فَأَحْسَنَ وُضُوءَهُ، ثُمَّ خَرَجَ عَامِدًا إِلَى الْمَسْجِدِ فَلَا يُشَبِّكَنَّ يَدَيْهِ فَإِنَّهُ فِي صَلَاةٍ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Jika salah seorang dari kalian&lt;b&gt; berwudhu dan menyempurnakan wudhunya, kemudian berangkat ke masjid, &lt;/b&gt;maka janganlah menyilangkan jari-jemarinya karena sesungguhnya &lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;dia dalam keadaan shalat.&lt;/span&gt;”&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;(HR. Abu Dawud, dan di-shahih-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="PeBpS4v6Axr1vAxxJEVa-1">
+        <mxCell id="PeBpS4v6Axr1vAxxJEVa-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;إِذَا تَوَضَّأَ أَحَدُكُمْ فَأَحْسَنَ وُضُوءَهُ، ثُمَّ خَرَجَ عَامِدًا إِلَى الْمَسْجِدِ فَلَا يُشَبِّكَنَّ يَدَيْهِ فَإِنَّهُ فِي صَلَاةٍ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Jika salah seorang dari kalian&lt;b&gt; berwudhu dan menyempurnakan wudhunya, kemudian berangkat ke masjid, &lt;/b&gt;maka janganlah menyilangkan jari-jemarinya karena sesungguhnya &lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;dia dalam keadaan shalat.&lt;/span&gt;”&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;(HR. Abu Dawud, dan di-shahih-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="PeBpS4v6Axr1vAxxJEVa-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="210" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="PeBpS4v6Axr1vAxxJEVa-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="PeBpS4v6Axr1vAxxJEVa-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="PeBpS4v6Axr1vAxxJEVa-1" vertex="1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -406,18 +401,116 @@
     </mxGraphModel>
   </diagram>
   <diagram name="W5" id="S58sTHbsdNO0xY7tbMPX">
-    <mxGraphModel dx="932" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JdIBxYl8yr_gR0hbxILj-0" />
         <mxCell id="JdIBxYl8yr_gR0hbxILj-1" parent="JdIBxYl8yr_gR0hbxILj-0" />
-        <mxCell id="JdIBxYl8yr_gR0hbxILj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JdIBxYl8yr_gR0hbxILj-1">
+        <mxCell id="JdIBxYl8yr_gR0hbxILj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="JdIBxYl8yr_gR0hbxILj-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="JdIBxYl8yr_gR0hbxILj-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;لَا يَتَوَضَّأُ أَحَدُكُمْ فَيُحْسِنُ وُضُوءَهُ وَيُسْبِغُهُ، ثُمَّ يَأْتِي الْمَسْجِدَ لَا يُرِيدُ إِلَّا الصَّلَاةَ فِيهِ، إِلَّا تَبَشْبَشَ اللَّهُ إِلَيْهِ كَمَا يَتَبَشْبَشُ أَهْلُ الْغَائِبِ بِطَلْعَتِهِ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Tidaklah salah seorang di antara kalian &lt;b&gt;berwudhu dengan bagus dan sempurna, kemudian mendatangi masjid tanpa maksud lain selain shalat&lt;/b&gt;, kecuali &lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Allah akan berseri-seri wajah-Nya &lt;/span&gt;sebagaimana gembiranya seseorang ketika menemukan kembali saudaranya yang pulang dari bepergian.”&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;(HR. Ibnu Khuzaimah di dalam Shahih-nya, dan di-shahih-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="JdIBxYl8yr_gR0hbxILj-1">
+        <mxCell id="JdIBxYl8yr_gR0hbxILj-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;لَا يَتَوَضَّأُ أَحَدُكُمْ فَيُحْسِنُ وُضُوءَهُ وَيُسْبِغُهُ، ثُمَّ يَأْتِي الْمَسْجِدَ لَا يُرِيدُ إِلَّا الصَّلَاةَ فِيهِ، إِلَّا تَبَشْبَشَ اللَّهُ إِلَيْهِ كَمَا يَتَبَشْبَشُ أَهْلُ الْغَائِبِ بِطَلْعَتِهِ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;”Tidaklah salah seorang di antara kalian &lt;b&gt;berwudhu dengan bagus dan sempurna, kemudian mendatangi masjid tanpa maksud lain selain shalat&lt;/b&gt;, kecuali &lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Allah akan berseri-seri wajah-Nya &lt;/span&gt;sebagaimana gembiranya seseorang ketika menemukan kembali saudaranya yang pulang dari bepergian.”&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;(HR. Ibnu Khuzaimah di dalam Shahih-nya, dan di-shahih-kan oleh Syaikh Albani)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#27292a&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="JdIBxYl8yr_gR0hbxILj-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="210" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="JdIBxYl8yr_gR0hbxILj-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="JdIBxYl8yr_gR0hbxILj-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="JdIBxYl8yr_gR0hbxILj-1" vertex="1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="M1" id="hie3DcwTOtRVuG1gYtHq">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="7rqsWl-rHjoQzgYecf6w-0" />
+        <mxCell id="7rqsWl-rHjoQzgYecf6w-1" parent="7rqsWl-rHjoQzgYecf6w-0" />
+        <mxCell id="7rqsWl-rHjoQzgYecf6w-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7rqsWl-rHjoQzgYecf6w-1">
+          <mxGeometry x="240" y="50" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7rqsWl-rHjoQzgYecf6w-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;يَا بَنِي سَلِمَةَ دِيَارَكُمْ تُكْتَبْ آثَارُكُمْ&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;”Wahai Bani Salimah, tetaplah di rumah-rumah kalian, niscaya langkah-langkah kalian akan dicatat.” (HR. Muslim)&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;[Hadits ini berkenaan dengan keinginan Bani Salimah untuk pindah ke dekat masjid karena daerah di sekitar masjid kosong. Keinginan itu terdengar oleh Rasulullah shallallahu ‘alaihi wa sallam kemudian beliau bersabda sebagaimana hadits tersebut di atas, pent.]&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Yang dimaksud langkah dalam hadits ini adalah pada waktu berangkat dan pulang dari masjid. Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;مَنْ رَاحَ إِلَى مَسْجِدِ الْجَمَاعَةِ فَخَطْوَةٌ تَمْحُو سَيِّئَةً، وَخَطْوَةٌ تُكْتَبُ لَهُ حَسَنَةٌ، ذَاهِبًا وَرَاجِعًا&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;”Barangsiapa yang berangkat menuju masjid untuk shalat berjamaah, maka satu langkah akan menghapus dosa dan langkah berikutnya dicatat sebagai kebaikan, baik pada saat berangkat maupun kembali.”&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(HR. Ahmad, dan di-shahih-kan oleh Syaikh Ahmad Syakir)&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="7rqsWl-rHjoQzgYecf6w-1">
+          <mxGeometry x="260" y="90" width="320" height="300" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="7rqsWl-rHjoQzgYecf6w-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="7rqsWl-rHjoQzgYecf6w-1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="M2" id="3Z4W4OBbmzfN2qAZV7aq">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="I8BTquM-_F4KgivfJeHw-0" />
+        <mxCell id="I8BTquM-_F4KgivfJeHw-1" parent="I8BTquM-_F4KgivfJeHw-0" />
+        <mxCell id="I8BTquM-_F4KgivfJeHw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I8BTquM-_F4KgivfJeHw-1">
+          <mxGeometry x="240" y="50" width="360" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="I8BTquM-_F4KgivfJeHw-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;أَلَا أَدُلُّكُمْ عَلَى مَا يَمْحُو اللهُ بِهِ الْخَطَايَا، وَيَرْفَعُ بِهِ الدَّرَجَاتِ؟&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;”Maukah aku tunjukkan kepada kalian sesuatu yang dengannya Allah Ta’ala akan menghapus dosa-dosa dan mengangkat derajat kalian?”&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;Para shahabat berkata, ”Ya, wahai Rasulullah.”&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;إِسْبَاغُ الْوُضُوءِ عَلَى الْمَكَارِهِ، وَكَثْرَةُ الْخُطَا إِلَى الْمَسَاجِدِ، وَانْتِظَارُ الصَّلَاةِ بَعْدَ الصَّلَاةِ، فَذَلِكُمُ الرِّبَاطُ، فَذَلِكُمُ الرِّبَاطُ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;”Menyempurnakan wudhu ketika dalam keadaan sulit, memperbanyak langkah menuju masjid (untuk shalat berjamaah, pent.), dan menunggu shalat sesudah selesai mengerjakan shalat. Yang demikian itu adalah perjuangan dan perjuangan.“&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;(HR. Muslim)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Sumber:&amp;nbsp;&lt;a style=&quot;box-sizing: border-box; text-decoration-line: none; cursor: pointer; touch-action: manipulation;&quot; href=&quot;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&quot;&gt;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="I8BTquM-_F4KgivfJeHw-1">
+          <mxGeometry x="260" y="90" width="320" height="250" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="I8BTquM-_F4KgivfJeHw-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="I8BTquM-_F4KgivfJeHw-1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="M3" id="VvXQyNiaLUt5sK12FcNO">
+    <mxGraphModel dx="746" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="o2d0Dtxn5MhnJuZZFcFf-0" />
+        <mxCell id="o2d0Dtxn5MhnJuZZFcFf-1" parent="o2d0Dtxn5MhnJuZZFcFf-0" />
+        <mxCell id="o2d0Dtxn5MhnJuZZFcFf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="o2d0Dtxn5MhnJuZZFcFf-1">
+          <mxGeometry x="240" y="50" width="360" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="o2d0Dtxn5MhnJuZZFcFf-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ثَلَاثَةٌ كُلُّهُمْ ضَامِنٌ عَلَى اللَّهِ عَزَّ وَجَلَّ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Terdapat tiga golongan yang semuanya mendapatkan &lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;jaminan&lt;/span&gt; dari Allah ‘Azza wa Jalla … ”&lt;/div&gt;&lt;div&gt;Disebutkan salah satunya yaitu,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;وَرَجُلٌ رَاحَ إِلَى الْمَسْجِدِ، فَهُوَ ضَامِنٌ عَلَى اللَّهِ حَتَّى يَتَوَفَّاهُ فَيُدْخِلَهُ الْجَنَّةَ، أَوْ يَرُدَّهُ بِمَا نَالَ مِنْ أَجْرٍ وَغَنِيمَةٍ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;“.. dan&lt;b&gt; seorang yang berangkat menuju masjid maka dia mendapatkan jaminan dari Allah,&lt;/b&gt; Dia mewafatkannya, lalu &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;memasukkannya ke dalam surga&lt;/span&gt; atau mengembalikannya ke rumah dengan membawa &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;pahala dan keberuntungan.&lt;/span&gt;”&amp;nbsp;&lt;/div&gt;&lt;div&gt;(HR. Abu Dawud, di-shahih-kan oleh Syaikh Albani).&lt;/div&gt;&lt;div&gt;Jaminan siapa yang lebih dapat dipercaya daripada jaminan dari Allah?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="o2d0Dtxn5MhnJuZZFcFf-1">
+          <mxGeometry x="260" y="90" width="320" height="210" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="o2d0Dtxn5MhnJuZZFcFf-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="o2d0Dtxn5MhnJuZZFcFf-1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="18JPLfM_Thyt_XPgolWL-0" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;Sesungguhnya ada seorang lelaki dari kaum Anshar yang berkata kepada Nabi shallallahu ‘alaihi wa sallam,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;مَا يَسُرُّنِي أَنَّ مَنْزِلِي إِلَى جَنْبِ الْمَسْجِدِ، إِنِّي أُرِيدُ أَنْ يُكْتَبَ لِي مَمْشَايَ إِلَى الْمَسْجِدِ، وَرُجُوعِي إِذَا رَجَعْتُ إِلَى أَهْلِي&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;”Aku tidak ingin rumahku berada di dekat masjid. Aku ingin agar ditetapkan &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;pahala&lt;/span&gt; bagiku &lt;b&gt;dari langkahku ke masjid dan dari langkahku saat kembali ke keluargaku.&lt;/b&gt;”&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;Maka Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;قَدْ جَمَعَ اللهُ لَكَ ذَلِكَ كُلَّهُ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;“Allah telah mengumpulkan semuanya itu untukmu.”&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;(HR. Muslim)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#27292a&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Sumber:&amp;nbsp;&lt;a href=&quot;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&quot; style=&quot;box-sizing: border-box; text-decoration-line: none; cursor: pointer; touch-action: manipulation;&quot;&gt;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="o2d0Dtxn5MhnJuZZFcFf-1">
+          <mxGeometry x="260" y="310" width="320" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="M4" id="a9rflhCts0f253wryjZ0">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="aDd_yhrvGY6m5W_0JZ4E-0" />
+        <mxCell id="aDd_yhrvGY6m5W_0JZ4E-1" parent="aDd_yhrvGY6m5W_0JZ4E-0" />
+        <mxCell id="aDd_yhrvGY6m5W_0JZ4E-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aDd_yhrvGY6m5W_0JZ4E-1">
+          <mxGeometry x="240" y="50" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aDd_yhrvGY6m5W_0JZ4E-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;بَشِّرِ الْمَشَّائِينَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;”Berikanlah kabar gembira bagi &lt;b&gt;orang-orang yang berjalan ke masjid&lt;/b&gt; &lt;b&gt;dalam kegelapan&lt;/b&gt; dengan &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;cahaya yang sangat terang pada hari kiamat.”&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;(HR. Abu Dawud dan Tirmidzi, di-shahih-kan oleh Syaikh Albani).&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;Cahaya yang sangat terang pada hari kiamat itu mengisyaratkan cahaya wajah kaum mukminin di hari kiamat. Allah Ta’ala berfirman,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;نُورُهُمْ يَسْعَى بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#27292a&quot;&gt;”Cahaya mereka memancar di hadapan dan di sebelah kanan mereka, mereka sambil mengatakan, ’Ya Rabb kami, sempurnakanlah bagi kami cahaya kami.’” (QS. At-Tahrim : 8)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Sumber:&amp;nbsp;&lt;a style=&quot;box-sizing: border-box; text-decoration-line: none; cursor: pointer; touch-action: manipulation;&quot; href=&quot;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&quot;&gt;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="aDd_yhrvGY6m5W_0JZ4E-1">
+          <mxGeometry x="260" y="90" width="320" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="aDd_yhrvGY6m5W_0JZ4E-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="aDd_yhrvGY6m5W_0JZ4E-1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="M5" id="XAq6I-yiekHe78fZB9eb">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zAjeJ8IQrtaCpJW7tXit-0" />
+        <mxCell id="zAjeJ8IQrtaCpJW7tXit-1" parent="zAjeJ8IQrtaCpJW7tXit-0" />
+        <mxCell id="zAjeJ8IQrtaCpJW7tXit-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zAjeJ8IQrtaCpJW7tXit-1">
+          <mxGeometry x="240" y="50" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zAjeJ8IQrtaCpJW7tXit-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;Dari Nabi shallallahu ‘alaihi wa sallam, beliau bersabda,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;مَنْ غَدَا إِلَى المَسْجِدِ وَرَاحَ، أَعَدَّ اللَّهُ لَهُ نُزُلَهُ مِنَ الجَنَّةِ كُلَّمَا غَدَا أَوْ رَاحَ&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;”Barangsiapa yang &lt;b&gt;pergi ke masjid pada pagi atau sore hari,&lt;/b&gt; maka Allah akan menyediakan &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;an-nuzul (jamuan) dari surga&lt;/span&gt; untuknya setiap kali dia pergi pada pagi dan sore hari.” (Muttafaq ‘alaih)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#27292a&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Sumber:&amp;nbsp;&lt;a style=&quot;box-sizing: border-box; text-decoration-line: none; cursor: pointer; touch-action: manipulation;&quot; href=&quot;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&quot;&gt;https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="zAjeJ8IQrtaCpJW7tXit-1">
+          <mxGeometry x="260" y="90" width="320" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="zAjeJ8IQrtaCpJW7tXit-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="zAjeJ8IQrtaCpJW7tXit-1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -425,7 +518,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="source" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1782" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
