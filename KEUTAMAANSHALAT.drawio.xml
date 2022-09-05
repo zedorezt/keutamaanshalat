@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T00:37:59.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="70Rq7IGAVrgTipkglWh1" version="20.2.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-05T00:47:48.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1MhqY3ko62TEKzOi8KmV" version="20.2.8" type="github" pages="8">
   <diagram id="ptX_z7NHkDAhG5BGAcua" name="MAIN">
-    <mxGraphModel dx="455" dy="231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,8 +159,8 @@
             <mxGeometry x="388.05" y="870" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="iZ-1tIumDRHz5UjwuG_M-2" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;KEUTAMAANSHALAT.COM&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Berisi t&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entang Keutamaan-Keutamaan yang Didapat Seorang Muslim&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;dalam Perjalanannya Menuju Shalat Berjama&#39;ah di Masjid&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.banner;dx=26.86;dy=6.79;notch=15.81;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=9;fontStyle=1;spacingBottom=15;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="239.02" y="30" width="360" height="50" as="geometry" />
+        <mxCell id="iZ-1tIumDRHz5UjwuG_M-2" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;KEUTAMAANSHALAT.COM&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Berisi t&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entang Keutamaan-Keutamaan yang Didapat Seorang Muslim&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;dalam Perjalanannya Menuju Shalat Berjama&#39;ah di Masjid&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;Motto : Mudah diakses - Ringkas - In syaa Allah Menambah Iman&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.banner;dx=26.86;dy=6.79;notch=15.81;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=9;fontStyle=1;spacingBottom=15;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="239.02" y="20" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iZ-1tIumDRHz5UjwuG_M-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=4;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="239.52" y="90" width="360" height="30" as="geometry" />
