@@ -1,29 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T01:06:07.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dr4m9lyIXR1eOdem12i4" version="20.2.8" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-09-06T01:32:47.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EcWpk3FqTScNCHh4T6S6" version="20.2.8" type="github" pages="25">
   <diagram id="ptX_z7NHkDAhG5BGAcua" name="MAIN">
-    <mxGraphModel dx="491" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vQxqKKseCGCAXoM-ueNt-45" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#12AAB5&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Didengar saja&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="369.02" y="231" width="230" height="50" as="geometry" />
+        <mxCell id="vQxqKKseCGCAXoM-ueNt-45" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#12AAB5&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Didengar saja&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="369.02" y="710.5" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vQxqKKseCGCAXoM-ueNt-36" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;i&gt;Ketika...&lt;/i&gt;&lt;br&gt;Hati terikat masjid&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="vQxqKKseCGCAXoM-ueNt-36" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;i&gt;Ketika...&lt;/i&gt;&lt;br&gt;Hati terikat masjid&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="240" y="171" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQxqKKseCGCAXoM-ueNt-37" value="&lt;i style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ketika...&lt;/i&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;b&gt;Adzan&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="230.5" width="110" height="220.5" as="geometry" />
+        <mxCell id="vQxqKKseCGCAXoM-ueNt-38" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Wudhu dari rumah&lt;/b&gt;&lt;br&gt;lalu berangkat&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="240" y="231" width="110" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="vQxqKKseCGCAXoM-ueNt-38" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Ketika...&lt;/i&gt;&lt;br&gt;&lt;b&gt;Wudhu dari rumah&lt;/b&gt;&lt;br&gt;lalu berangkat&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="451" width="110" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="vQxqKKseCGCAXoM-ueNt-39" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Ketika....&lt;/i&gt;&lt;br&gt;&lt;b&gt;Melangkah ke Masjid&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="671" width="110" height="260" as="geometry" />
+        <mxCell id="vQxqKKseCGCAXoM-ueNt-39" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Saat...&lt;br&gt;&lt;/i&gt;&lt;b&gt;Melangkah ke Masjid&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="239.01999999999998" y="450" width="110" height="260" as="geometry" />
         </mxCell>
         <mxCell id="vQxqKKseCGCAXoM-ueNt-40" value="&lt;i style=&quot;color: rgb(255, 255, 255);&quot;&gt;Ketika....&lt;/i&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Menunggu Shalat&lt;/b&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="239.98" y="931" width="110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="y3rqe7xAY7ScYUD7S8NS-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Dijawab&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="369.02" y="281" width="230" height="70" as="geometry" />
+        <mxCell id="y3rqe7xAY7ScYUD7S8NS-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Dijawab&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="369.02" y="760.5" width="230" height="70" as="geometry" />
         </mxCell>
         <object label="Masuk Surga" link="data:page/id,WFjXGTG7Y_SWiMDvyuU_" id="jUrxWYqfwa9cQrvNToEY-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#EEEEEE;strokeColor=#FFFFFF;align=left;spacingLeft=4;" parent="y3rqe7xAY7ScYUD7S8NS-3" vertex="1">
@@ -35,27 +32,27 @@
             <mxGeometry x="20" y="40" width="190" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="VTC6rLoVGRpI8mzMueTu-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Selesai Adzan&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="369.02" y="351" width="230" height="90" as="geometry" />
+        <mxCell id="VTC6rLoVGRpI8mzMueTu-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Selesai Adzan&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="369.02" y="830.5" width="230" height="90" as="geometry" />
         </mxCell>
         <object label="Baca sholawat = disholawati Allah 10x" link="data:page/id,Syi4xIRj1lRxZMAaMMCq" id="VTC6rLoVGRpI8mzMueTu-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#EEEEEE;strokeColor=#FFFFFF;align=left;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="371.25" width="191.95" height="20" as="geometry" />
+            <mxGeometry x="387.07" y="850.75" width="191.95" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Berdoa = doanya mustajab" link="data:page/id,Fxc3i3N3VPc_vGmkAJOi" id="VTC6rLoVGRpI8mzMueTu-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#EEEEEE;strokeColor=#FFFFFF;align=left;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="391.25" width="191.95" height="20" as="geometry" />
+            <mxGeometry x="387.07" y="870.75" width="191.95" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Berdoa minta wasilah untuk Nabi = dapat syafaat" link="data:page/id,l_1xcgvJV4YU1Oe_WtqG" id="VTC6rLoVGRpI8mzMueTu-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#EEEEEE;strokeColor=#FFFFFF;align=left;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="411.25" width="191.95" height="20" as="geometry" />
+            <mxGeometry x="387.07" y="890.75" width="191.95" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Menjadi Saksi Kebaikan" link="data:page/id,CnP1HV_2CHmaUKe0mG81" id="y3rqe7xAY7ScYUD7S8NS-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="251.25" width="191.95" height="20" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
+            <mxGeometry x="387.07" y="730.75" width="191.95" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="VTC6rLoVGRpI8mzMueTu-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Hati mencintai Masjid&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
@@ -67,91 +64,91 @@
           </mxCell>
         </object>
         <mxCell id="PHPbxEPOViMxjpDnQBaD-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Wudhu dari rumah lalu berangkat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.04" y="451" width="230" height="70" as="geometry" />
+          <mxGeometry x="368.03999999999996" y="231" width="230" height="70" as="geometry" />
         </mxCell>
         <object label="10 kebaikan per langkah" link="data:page/id,EJFEY792FsG4w_R0A-iM" id="1v0Bqw2SjAoDuhDU0UDA-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="471" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.06999999999994" y="251" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Dapat pahala ihram" link="data:page/id,stOHWTPRBskVVV7b9wHP" id="1v0Bqw2SjAoDuhDU0UDA-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="387.07" y="493" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.06999999999994" y="273" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ZjPqhQ42XqTpPw3VsFsH-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Jika sempurna wudhunya&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="369.02" y="521" width="230" height="90" as="geometry" />
+          <mxGeometry x="369.02" y="301" width="230" height="90" as="geometry" />
         </mxCell>
         <object label="Dianggap dalam keadaan sholat" link="data:page/id,bIxmsCIB0Qiyf1aOTn-P" id="ZjPqhQ42XqTpPw3VsFsH-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="541" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.04999999999995" y="321" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Dihapus dosa" link="data:page/id,biMTFAJX-5M848D74cWV" id="ZjPqhQ42XqTpPw3VsFsH-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="563" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.04999999999995" y="343" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Diangkat derajat" link="data:page/id,biMTFAJX-5M848D74cWV" id="G0aPam2Am_EQio4MDOe6-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="583" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="388.04999999999995" y="363" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="BHLySXqkl3I0xPdBfrIT-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Ketika berangkat tanpa maksud lain kecuali shalat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.53" y="611" width="230" height="50" as="geometry" />
+          <mxGeometry x="368.53" y="391" width="230" height="50" as="geometry" />
         </mxCell>
         <object label="Membuat wajah Allah berseri-seri" link="data:page/id,S58sTHbsdNO0xY7tbMPX" id="MByxPqFhTQiGIArb5DMd-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="387.56" y="631" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="411" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Y1K2-1pJygIcHRLU0Th9-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Melangkah&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="369.52" y="671" width="230" height="150" as="geometry" />
+        <mxCell id="Y1K2-1pJygIcHRLU0Th9-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Melangkah&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
+          <mxGeometry x="368.53999999999996" y="450" width="230" height="150" as="geometry" />
         </mxCell>
         <object label="Dicatat kebaikan" link="data:page/id,hie3DcwTOtRVuG1gYtHq" id="Y1K2-1pJygIcHRLU0Th9-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.05" y="691" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.06999999999994" y="470" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Hapus dosa" link="data:page/id,3Z4W4OBbmzfN2qAZV7aq" id="Y1K2-1pJygIcHRLU0Th9-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.54" y="711" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="490" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Dinaikkan derajat" link="data:page/id,3Z4W4OBbmzfN2qAZV7aq" id="Y1K2-1pJygIcHRLU0Th9-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.54" y="731" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="510" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Jaminan surga" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.54" y="751" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="530" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Jaminan pahala" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.54" y="771" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="550" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <object label="Jaminan beruntung ketika kembali ke rumah" link="data:page/id,VvXQyNiaLUt5sK12FcNO" id="Y1K2-1pJygIcHRLU0Th9-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.54" y="791" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.55999999999995" y="570" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="GQeM6poqV3y5lA7JYuwL-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Sambil baca shalawat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="821" width="230" height="50" as="geometry" />
+        <mxCell id="GQeM6poqV3y5lA7JYuwL-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Sambil baca shalawat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
+          <mxGeometry x="369.02" y="600" width="230" height="50" as="geometry" />
         </mxCell>
         <object label="Cahaya hari kiamat" link="data:page/id,a9rflhCts0f253wryjZ0" id="GQeM6poqV3y5lA7JYuwL-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="386.57" y="841" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="385.5899999999999" y="620" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="NaWe3xuq2ul6Oi4aCPQo-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Pada pagi dan sore&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="370.00000000000006" y="871" width="230" height="50" as="geometry" />
+        <mxCell id="NaWe3xuq2ul6Oi4aCPQo-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Pada pagi dan sore&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
+          <mxGeometry x="369.02" y="650" width="230" height="50" as="geometry" />
         </mxCell>
         <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Jamuan dari surga (an-nuzul)&lt;/span&gt;" link="data:page/id,XAq6I-yiekHe78fZB9eb" id="NaWe3xuq2ul6Oi4aCPQo-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
-            <mxGeometry x="388.53000000000003" y="891" width="192.93" height="20" as="geometry" />
+            <mxGeometry x="387.54999999999995" y="670" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="iZ-1tIumDRHz5UjwuG_M-2" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;KEUTAMAANSHALAT.COM&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Menyingkap Keutamaan-keutamaan&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;yang Jarang Diketahui&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dari Perjalanannya Seorang Muslim&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menuju Shalat Berjama&#39;ah di Masjid&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;Motto : Mudah diakses - Ringkas - Semoga Menambah Iman&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.banner;dx=26.86;dy=6.79;notch=15.81;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=9;fontStyle=1;spacingBottom=15;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -163,46 +160,34 @@
         <mxCell id="iZ-1tIumDRHz5UjwuG_M-9" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Panduan : Silakan klik pada masing-masing keutamaan shalat untuk melihat dalilnya&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="249.52" y="136.25" width="340" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="iZ-1tIumDRHz5UjwuG_M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=2;fillColor=#f5f5f5;fontColor=#333333;container=0;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="239.99999999999997" y="1641" width="360" height="40" as="geometry">
+        <mxCell id="iZ-1tIumDRHz5UjwuG_M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=5;fillColor=#f5f5f5;fontColor=#333333;container=0;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1650" width="360" height="100" as="geometry">
             <mxRectangle x="239.02" y="1000" width="360.98" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZ-1tIumDRHz5UjwuG_M-12" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Mohon doa, in syaa Allah keutamaan shalat ini akan dilengkapi terus menerus, disertai tuntutan shalatnya. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Penulis mengharap ridho Allah semata, mengambil faedah untuk mengingatkan diri sendiri agar selalu ingat dengan keutamaan shalat berjama&#39;ah.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Jika ada koreksi, saran, dan masukan, silakan menghubungi 081222205116 melalui Whatsapp.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;Rencana update : update langkah, update dalil dengan arabnya, update gambar, update tuntunan shalat&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="iZ-1tIumDRHz5UjwuG_M-11" vertex="1">
-          <mxGeometry x="-20" y="7.832" width="370" height="24.336000000000002" as="geometry" />
+        <mxCell id="iZ-1tIumDRHz5UjwuG_M-12" value="&lt;ul style=&quot;font-size: 8px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Mohon doa, in syaa Allah keutamaan shalat ini akan dilengkapi terus menerus, disertai tuntutan shalatnya. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Penulis mengharap ridho Allah semata, mengambil faedah untuk mengingatkan diri sendiri agar selalu ingat dengan keutamaan shalat berjama&#39;ah.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Jika ada koreksi, saran, dan masukan, silakan menghubungi 081222205116 melalui Whatsapp.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Rencana update : update langkah, update dalil dengan arabnya, update gambar, update tuntunan shalat&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="iZ-1tIumDRHz5UjwuG_M-11" vertex="1">
+          <mxGeometry x="-20" y="19.58" width="370" height="60.84000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;i&gt;Jika mendapat....&lt;/i&gt;&lt;br&gt;Shaf Pertama&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1131" width="110" height="210" as="geometry" />
+        <mxCell id="goOy-EKhFGLI5XM_wrYe-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Membidik shaf pertama &amp;amp; sebelah kanan&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1131" width="110" height="339" as="geometry" />
         </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Shaf Kedua&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="239.51999999999998" y="1341" width="110" height="50.5" as="geometry" />
-        </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Menyambung Shaf&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="238.54" y="1391.5" width="110" height="90" as="geometry" />
+        <mxCell id="goOy-EKhFGLI5XM_wrYe-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Merapatkan Shaf&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="239.51999999999998" y="1470" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Menunggu Shalat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
           <mxGeometry x="369.01" y="931" width="231.97" height="70" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Pertama&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="368.53" y="1131" width="230" height="200" as="geometry" />
+          <mxGeometry x="369.53" y="1131" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Kedua&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#ffe6cc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="367.55" y="1341.5" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Wudhu dari rumah lalu berangkat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="369.52000000000004" y="1391.5" width="230" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Merapatkan Shaf&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="239.51999999999998" y="1480.5" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="goOy-EKhFGLI5XM_wrYe-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Sambil baca sholawat&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="367.55" y="1480.5" width="230" height="60" as="geometry" />
+        <mxCell id="goOy-EKhFGLI5XM_wrYe-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot; style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Menyambung Shaf&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#f8cecc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
+          <mxGeometry x="370.50000000000006" y="1470" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-16" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Ketika Shalat&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="239.51999999999998" y="1550.5" width="110" height="80" as="geometry" />
+          <mxGeometry x="240.49999999999997" y="1560" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="goOy-EKhFGLI5XM_wrYe-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Pada pagi dan sore&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#FFFFFF;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" parent="1" vertex="1">
-          <mxGeometry x="367.55" y="1550.5" width="231.97" height="70" as="geometry" />
+          <mxGeometry x="368.53000000000003" y="1560" width="231.97" height="70" as="geometry" />
         </mxCell>
         <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Dianggap sedang melakukan ketaaan&lt;br&gt;&lt;/span&gt;" id="uvxefJTNDq41g_HnybQt-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" parent="1" vertex="1">
@@ -270,6 +255,30 @@
             <mxGeometry x="387.07" y="1281" width="192.93" height="20" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="j9BbYwoi9SlXxoSCsOgF-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Kedua&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" vertex="1" parent="1">
+          <mxGeometry x="369.98" y="1331.5" width="230" height="58.5" as="geometry" />
+        </mxCell>
+        <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Dishalawatin Rasulullah 1x&amp;nbsp;&lt;br&gt;(didoakan rahmat dan ampunan)&lt;br&gt;&lt;/span&gt;" link="data:page/id,gHOpDc6gMkkBA5Vuf2CC" id="j9BbYwoi9SlXxoSCsOgF-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" vertex="1" parent="1">
+            <mxGeometry x="389.52" y="1350" width="192.93" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="j9BbYwoi9SlXxoSCsOgF-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#12aab5&quot;&gt;&lt;b&gt;Shaf Kanan&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=8;spacingLeft=4;container=0;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="1391" width="230" height="69" as="geometry" />
+        </mxCell>
+        <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Dishalawatin Allah&lt;br&gt;&lt;/span&gt;" link="data:page/id,Rm_P9zwe8E1gz-mplrd3" id="fO2AKRO8IFxBRSMS8FDY-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" vertex="1" parent="1">
+            <mxGeometry x="389.52" y="1410" width="192.93" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Dishalawatin Malaikat&lt;br&gt;&lt;/span&gt;" link="data:page/id,Rm_P9zwe8E1gz-mplrd3" id="fO2AKRO8IFxBRSMS8FDY-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f5f5f5;strokeColor=#FFFFFF;align=left;fontColor=#333333;spacingLeft=4;" vertex="1" parent="1">
+            <mxGeometry x="389.52" y="1430" width="192.93" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HZo9ZOfGyjpAxWapFNOs-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;i&gt;Menjawab &lt;br&gt;Adzan&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="239.02" y="710.5" width="110" height="220.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -648,14 +657,14 @@
       <root>
         <mxCell id="sehcZl8qr3W05IAnO7pg-0" />
         <mxCell id="sehcZl8qr3W05IAnO7pg-1" parent="sehcZl8qr3W05IAnO7pg-0" />
-        <mxCell id="sehcZl8qr3W05IAnO7pg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="sehcZl8qr3W05IAnO7pg-1">
+        <mxCell id="sehcZl8qr3W05IAnO7pg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="sehcZl8qr3W05IAnO7pg-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="sehcZl8qr3W05IAnO7pg-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;An-Nasa’i rahimahullah meriwayatkan dari ‘Irbadh bin Sariyah radhiyallahu ‘anhu, beliau berkata,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;كَانَ يُصَلِّي عَلَى الصَّفِّ الْأَوَّلِ ثَلَاثًا وَعَلَى الثَّانِي وَاحِدَةً&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Rasulullah bershalawat untuk orang-orang yang berada di shaf pertama sebanyak tiga kali dan untuk orang-orang yang berada di shaf kedua sebanyak satu kali.” (HR. An-Nasa’i, dan di-shahih-kan oleh Syaikh Albani).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As-Sindi rahimahullah berkata, ”Maksudnya Nabi mendoakan mereka dengan rahmat dan memohonkan ampun untuknya.”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="sehcZl8qr3W05IAnO7pg-1">
+        <mxCell id="sehcZl8qr3W05IAnO7pg-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;An-Nasa’i rahimahullah meriwayatkan dari ‘Irbadh bin Sariyah radhiyallahu ‘anhu, beliau berkata,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;كَانَ يُصَلِّي عَلَى الصَّفِّ الْأَوَّلِ ثَلَاثًا وَعَلَى الثَّانِي وَاحِدَةً&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Rasulullah bershalawat untuk orang-orang yang berada di shaf pertama sebanyak tiga kali dan untuk orang-orang yang berada di shaf kedua sebanyak satu kali.” (HR. An-Nasa’i, dan di-shahih-kan oleh Syaikh Albani).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As-Sindi rahimahullah berkata, ”Maksudnya Nabi mendoakan mereka dengan rahmat dan memohonkan ampun untuknya.”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="sehcZl8qr3W05IAnO7pg-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="260" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="sehcZl8qr3W05IAnO7pg-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="sehcZl8qr3W05IAnO7pg-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="sehcZl8qr3W05IAnO7pg-1" vertex="1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -667,14 +676,14 @@
       <root>
         <mxCell id="PUWA_iNADAKasdCV1t2X-0" />
         <mxCell id="PUWA_iNADAKasdCV1t2X-1" parent="PUWA_iNADAKasdCV1t2X-0" />
-        <mxCell id="PUWA_iNADAKasdCV1t2X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PUWA_iNADAKasdCV1t2X-1">
+        <mxCell id="PUWA_iNADAKasdCV1t2X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="PUWA_iNADAKasdCV1t2X-1" vertex="1">
           <mxGeometry x="240" y="50" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="PUWA_iNADAKasdCV1t2X-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;لَوْ يَعْلَمُ النَّاسُ مَا فِي النِّدَاءِ وَالصَّفِّ الأَوَّلِ، ثُمَّ لَمْ يَجِدُوا إِلَّا أَنْ يَسْتَهِمُوا عَلَيْهِ لاَسْتَهَمُوا&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Seandainya orang-orang mengetahui keutamaan yang ada di balik adzan dan shaf pertama dan mereka tidak akan mendapatkannya kecuali dengan mengadakan undian, niscaya mereka akan mengadakan undian.” (HR. Bukhari)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tidak adanya penjelasan dari Rasulullah shallallahu ‘alaihi wa sallam menunjukkan bahwa keutamaannya tidak bisa dibayangkan. Dan tidak ada perlombaan kecuali untuk memperebutkan sesuatu yang layak diperebutkan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="PUWA_iNADAKasdCV1t2X-1">
+        <mxCell id="PUWA_iNADAKasdCV1t2X-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;لَوْ يَعْلَمُ النَّاسُ مَا فِي النِّدَاءِ وَالصَّفِّ الأَوَّلِ، ثُمَّ لَمْ يَجِدُوا إِلَّا أَنْ يَسْتَهِمُوا عَلَيْهِ لاَسْتَهَمُوا&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Seandainya orang-orang mengetahui keutamaan yang ada di balik adzan dan shaf pertama dan mereka tidak akan mendapatkannya kecuali dengan mengadakan undian, niscaya mereka akan mengadakan undian.” (HR. Bukhari)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tidak adanya penjelasan dari Rasulullah shallallahu ‘alaihi wa sallam menunjukkan bahwa keutamaannya tidak bisa dibayangkan. Dan tidak ada perlombaan kecuali untuk memperebutkan sesuatu yang layak diperebutkan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" parent="PUWA_iNADAKasdCV1t2X-1" vertex="1">
           <mxGeometry x="260" y="90" width="320" height="260" as="geometry" />
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="PUWA_iNADAKasdCV1t2X-4">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="PUWA_iNADAKasdCV1t2X-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="PUWA_iNADAKasdCV1t2X-1" vertex="1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
@@ -694,6 +703,25 @@
         </mxCell>
         <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="MWfIvVryQ8k8-jxPQDT7-4">
           <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" parent="MWfIvVryQ8k8-jxPQDT7-1" vertex="1">
+            <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="S5" id="Rm_P9zwe8E1gz-mplrd3">
+    <mxGraphModel dx="932" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="D8Ub8Ivte5ChOCMV3gux-0" />
+        <mxCell id="D8Ub8Ivte5ChOCMV3gux-1" parent="D8Ub8Ivte5ChOCMV3gux-0" />
+        <mxCell id="D8Ub8Ivte5ChOCMV3gux-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="D8Ub8Ivte5ChOCMV3gux-1">
+          <mxGeometry x="240" y="50" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="D8Ub8Ivte5ChOCMV3gux-3" value="&lt;div style=&quot;orphans: 2; text-indent: 0px; widows: 2; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Rasulullah shallallahu ‘alaihi wa sallam bersabda,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى مَيَامِنِ الصُّفُوفِ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;”Sesungguhnya Allah dan para malaikat-Nya bershalawat kepada orang-orang yang berada di shaf sebelah kanan.” (HR. Ibnu Majah dengan sanad hasan)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sumber: https://muslim.or.id/43225-keutamaan-dan-kewajiban-shalat-berjamaah-bag-2.html&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Georgia;labelBackgroundColor=none;strokeColor=none;fillColor=default;spacingLeft=5;spacingRight=5;" vertex="1" parent="D8Ub8Ivte5ChOCMV3gux-1">
+          <mxGeometry x="260" y="90" width="320" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="Back" link="data:page/id,ptX_z7NHkDAhG5BGAcua" id="D8Ub8Ivte5ChOCMV3gux-4">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=8;sketch=0;" vertex="1" parent="D8Ub8Ivte5ChOCMV3gux-1">
             <mxGeometry x="260" y="60" width="86" height="20" as="geometry" />
           </mxCell>
         </UserObject>
